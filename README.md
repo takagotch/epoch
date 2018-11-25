@@ -2,6 +2,7 @@
 ---
 https://github.com/epochjs/epoch
 
+http://epochjs.github.io/epoch/basic/
 ```
 <script src="js/d3.min.js"></script>
 <script src="js/epoch.min.js"></script>
